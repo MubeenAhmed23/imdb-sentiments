@@ -1,0 +1,29 @@
+[
+  {
+    "training_reviews":1000,
+    "test_reviews":25000,
+    "accuracy":0.83384,
+    "precision":0.8304038005,
+    "recall":0.83904,
+    "f1":0.8346995623,
+    "fit_seconds":0.8335015
+  },
+  {
+    "training_reviews":5000,
+    "test_reviews":25000,
+    "accuracy":0.86764,
+    "precision":0.8622782814,
+    "recall":0.87504,
+    "f1":0.8686122692,
+    "fit_seconds":5.242976
+  },
+  {
+    "training_reviews":25000,
+    "test_reviews":25000,
+    "accuracy":0.88928,
+    "precision":0.8912833709,
+    "recall":0.88672,
+    "f1":0.8889958293,
+    "fit_seconds":20.3906573
+  }
+]
